@@ -1,0 +1,6 @@
+name,position,salary
+ashok kumar katta,Technical Program Manager,4000000
+mahesh zade,Product Manager,3500000
+Soumya, Program Manager, 2500000Manasa,Bank Manager,1200000
+"['Manasa', 'Bank Manager', '1200000']"
+Manasa,Bank Manager,1200000
